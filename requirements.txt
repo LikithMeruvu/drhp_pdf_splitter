@@ -3,3 +3,5 @@ PyMuPDF
 pandas
 requests
 rapidfuzz
+bs4
+BeautifulSoup
